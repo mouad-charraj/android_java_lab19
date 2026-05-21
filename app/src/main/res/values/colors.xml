@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- ZERO-XR7 Premium Signature Palette -->
+    <color name="mouad_primary">#6C5CE7</color>
+    <color name="mouad_primary_dark">#4834D4</color>
+    <color name="mouad_accent">#00CEC9</color>
+    <color name="mouad_bg_soft">#F1F2F6</color>
+    <color name="mouad_card_surface">#FFFFFF</color>
+    <color name="mouad_text_main">#2D3436</color>
+    <color name="mouad_text_secondary">#636E72</color>
+    <color name="mouad_delete_red">#D63031</color>
+</resources>
